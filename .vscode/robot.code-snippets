@@ -1,0 +1,19 @@
+{
+	"Print to console": {
+		"scope": "robotframework",
+		"prefix": "init",
+		"body": [
+			"*** Settings ***",
+			"",
+			"",
+			"*** Variables ***",
+			"",
+			"",
+			"*** Keywords ***",
+			"",
+			"",
+			"*** Test Cases ***$1",
+		],
+		"description": "Init my robot"
+	}
+}
